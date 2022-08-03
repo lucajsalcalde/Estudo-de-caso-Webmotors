@@ -52,7 +52,7 @@ Normalização no Power BI: https://github.com/lucajsalcalde/Estudo-de-caso-Webm
 
 Foram analisados os anúncios e suas variações.
 
-As variáveis que mais influenciam no ganho de leads são "Prioridade" e "Revisões agendadas" .
+As variáveis que mais influenciam no ganho de leads são "Prioridade", "Revisões agendadas" e "Veículo licenciado" .
 
 Anúncios com prioridade 3 tem menor média de leads recebidos, porém isso se deve pelas outras variáveis, pois quanto maior a prioridade, mais visível o anúncio.
 
@@ -64,4 +64,6 @@ https://github.com/lucajsalcalde/Estudo-de-caso-Webmotors/blob/main/PowerBIWebmo
 
 Conclusões:
 
-1...
+1. Compartilhar informações com os usuários do site, pois ter conhecimento das caracteristicas que tornam seu produto mais atrativo é importante tanto para o vendedor, quanto para a empresa. 
+2. Dar destaque para as caracteristicas mais atrativas nos anúncios, tornando os produtos mais atrativos.
+
