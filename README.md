@@ -8,6 +8,8 @@ Ferramentas utilizadas:
 - Power BI
 
 
+
+
 # Cenário
 
 A Webmotors, um site de compra e venda de carros e motos, dispõe de diversos produtos digitais para solucionar problemas durante a 
