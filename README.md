@@ -49,7 +49,12 @@ Excel e tabela final: https://github.com/lucajsalcalde/Estudo-de-caso-Webmotors/
 Normalização no Power BI: https://github.com/lucajsalcalde/Estudo-de-caso-Webmotors/blob/main/ProcessamentoPBI.png
 
 # Compartilhar
-...em breve
+
+Foram analisados os anúncios e suas variações.
+
+As variáveis que mais influenciam no ganho de leads são "Prioridade" e "Revisões agendadas" .
+
+Anúncios com prioridade 3 tem menor média de leads recebidos, porém isso se deve pelas outras variáveis, já que a prioridade torna o anúncio mais visível.
 
 # Visualizações
 
