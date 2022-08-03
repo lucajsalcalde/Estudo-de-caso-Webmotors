@@ -44,7 +44,9 @@ Apesar dos dados não serem oficiais, eles são confiáveis para o desenvolvimen
 
 # Processar
 
-https://github.com/lucajsalcalde/Estudo-de-caso-Webmotors/blob/main/WebmotorsProcessamento.ipynb
+Excel e tabela final: https://github.com/lucajsalcalde/Estudo-de-caso-Webmotors/blob/main/WebmotorsProcessamento.ipynb
+
+Normalização no Power BI: https://github.com/lucajsalcalde/Estudo-de-caso-Webmotors/blob/main/ProcessamentoPBI.png
 
 # Compartilhar
 ...em breve
