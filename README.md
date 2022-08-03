@@ -1,8 +1,6 @@
 # Estudo-de-caso-Webmotors
 Estudo de caso desenvolvido com a finalidade de encontrar tendências para gerar mais leads.
 
-Desenvolvendo atualmente em:  https://www.kaggle.com/code/lucajordao/estudo-de-caso-webmotors
-
 Ferramentas utilizadas:
 
 - R
@@ -11,6 +9,7 @@ Ferramentas utilizadas:
 
 
 # Cenário
+
 A Webmotors, um site de compra e venda de carros e motos, dispõe de diversos produtos digitais para solucionar problemas durante a 
 compra, utilização e venda de um veículo, sendo um de seus principais e mais conhecidos o 
 classificado. Para o classificado é utilizado o lead model para monetizar seu produto. 
