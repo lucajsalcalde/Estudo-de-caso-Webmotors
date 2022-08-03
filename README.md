@@ -41,3 +41,5 @@ Os dados foram organizados em planilhas no Google Sheet, em arquivos .csv, sendo
 Apesar dos dados não serem oficiais, eles são confiáveis para o desenvolvimento do case.
 
 # Processar
+
+https://github.com/lucajsalcalde/Estudo-de-caso-Webmotors/blob/main/WebmotorsProcessamento.ipynb
