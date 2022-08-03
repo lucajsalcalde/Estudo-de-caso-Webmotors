@@ -54,7 +54,7 @@ Foram analisados os anúncios e suas variações.
 
 As variáveis que mais influenciam no ganho de leads são "Prioridade" e "Revisões agendadas" .
 
-Anúncios com prioridade 3 tem menor média de leads recebidos, porém isso se deve pelas outras variáveis, já que a prioridade torna o anúncio mais visível.
+Anúncios com prioridade 3 tem menor média de leads recebidos, porém isso se deve pelas outras variáveis, pois quanto maior a prioridade, mais visível o anúncio.
 
 # Visualizações
 
