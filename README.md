@@ -64,6 +64,6 @@ https://github.com/lucajsalcalde/Estudo-de-caso-Webmotors/blob/main/PowerBIWebmo
 
 Conclusões:
 
-1. Compartilhar informações com os usuários do site, pois ter conhecimento das caracteristicas que tornam seu produto mais atrativo é importante tanto para o vendedor, quanto para a empresa. 
+1. Compartilhar informações com os usuários do site, para que tenham conhecimento das caracteristicas que tornam seu produto mais atrativo, trazendo benefícios para ambas as partes(Empresa e ausuário). 
 2. Dar destaque para as caracteristicas mais influentes nos anúncios, tornando os produtos mais atrativos.
 
