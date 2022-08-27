@@ -3,7 +3,6 @@ Estudo de caso desenvolvido com a finalidade de encontrar tendências para gerar
 
 Ferramentas utilizadas:
 
-- R
 - VBA (Excel)
 - Power BI
 
