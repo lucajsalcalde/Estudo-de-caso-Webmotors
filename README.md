@@ -23,7 +23,7 @@ potencializar o recebimento de leads dos anúncios.
 
 Uma das perguntas feitas para guiar o futuro da análise foi: O que potencializa o recebimento dos leads?
 Portanto, o objetivo desse estudo de caso é apontar quais variáveis influênciam no recebmento de leads, e como
-aumentar o numero de leads recebidos.
+aumentar sua quantidade.
 
 Os principais interessados na resolução do estudo são:
 
